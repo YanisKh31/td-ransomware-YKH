@@ -1,4 +1,6 @@
-FROM python:3.9
+FROM python:3.10
 
 RUN apt update && apt install -y python3-pip
 RUN pip3 install cryptography requests
+
+EXPOSE 6666
