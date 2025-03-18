@@ -3,7 +3,7 @@ Nom       Kheffache
 Mail      yanis.kheffache@gmail.com
 
 #TD réalisé sur WSL
-#Fichiers disponible sur la branche master
+#Fichiers disponibles sur la branche master
 
 Mes réponses :
 
